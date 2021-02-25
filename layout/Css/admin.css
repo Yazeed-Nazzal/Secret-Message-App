@@ -1,0 +1,134 @@
+body {
+  background-color: #10BBB3;
+}
+
+.mainBox {
+  width: 360px;
+  background-color: #FFF;
+  margin-top: 200px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  border-radius: 10px;
+}
+
+.mainBox h2 {
+  color: #10BBB3;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mainBox input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  width: 200px;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.signUp {
+  display: none;
+}
+
+.mainBox .submit {
+  background-color: #10BBB3;
+  color: #FFF;
+}
+
+.mainBox .submit:hover {
+  background-color: #06a9a2;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+.massBox {
+  background-color: #fff;
+  width: 207px;
+  min-width: 200px;
+  width: 500px;
+  margin: auto;
+  height: 3;
+  margin-bottom: 70px;
+  min-width: 300px;
+  min-height: 130px;
+  padding: 20px;
+  border-radius: 10px;
+  padding-bottom: 5px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.massBox p {
+  width: 100%;
+  display: block;
+}
+
+.sacp {
+  color: red;
+  margin-left: 80%;
+}
+
+.error {
+  color: #fff;
+  font-size: 35px;
+  text-transform: capitalize;
+  margin-top: 100px;
+}
+
+.mainsend {
+  margin-top: 20px;
+}
+
+.masssend input {
+  display: block;
+}
+
+.sendh {
+  margin-top: 100px;
+  text-align: center;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+textarea {
+  border-radius: 20x;
+  padding: 20px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  font-family: "Roboto", sans-serif;
+  color: grey;
+  outline: none;
+}
+
+.avatar {
+  width: 150px;
+  margin-top: 10px;
+}
+
+.send {
+  padding: 10px;
+  width: 100px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: #FFF;
+}
+
+.sendp {
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+}
+
+.proh {
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
+}
+
+.card {
+  width: 500px;
+  margin-top: 100px;
+}
